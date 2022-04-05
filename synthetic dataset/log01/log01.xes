@@ -1,0 +1,554 @@
+<?xml version='1.0' encoding='utf-8'?>
+<log xes.version="1.0" xes.features="nested-attributes" openxes.version="1.0RC7">
+	<classifier name="(Event Name AND Lifecycle transition)" keys="concept:name lifecycle:transition" />
+	<string key="concept:name" value="log01-Incomplete" />
+	<trace>
+		<string key="concept:name" value="1" />
+		<float key="simulated:logProbability" value="-9.651944526700222" />
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t1" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:10:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t2" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:11:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t3" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:12:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t4" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:13:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t8" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:14:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t9" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:15:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t6" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:16:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t7" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:17:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t5" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:18:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t10" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:19:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t11" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:20:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t3" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:21:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t6" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:22:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t7" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:23:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t4" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:24:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t5" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:25:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t8" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:26:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t9" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:27:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t10" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:28:16.304+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t12" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:29:16.304+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="3" />
+		<float key="simulated:logProbability" value="-5.375278407684165" />
+		<event>
+			<string key="concept:instance" value="3" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t1" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:15:12.195+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="3" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t2" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:16:12.195+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="3" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t3" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:17:12.195+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="3" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t4" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:18:12.195+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="3" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t6" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:19:12.195+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="3" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t5" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:20:12.195+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="3" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t8" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:21:12.195+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="3" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t7" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:22:12.195+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="3" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t9" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:23:12.195+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="3" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t10" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:24:12.195+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="3" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t12" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:25:12.195+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="6" />
+		<float key="simulated:logProbability" value="-5.78074351579233" />
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t1" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:19:19.281+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t2" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:20:19.281+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t3" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:21:19.281+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t4" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:22:19.281+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t6" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:23:19.281+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t8" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:24:19.281+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t7" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:25:19.281+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t9" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:26:19.281+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t5" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:27:19.281+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t10" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:28:19.281+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t12" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:29:19.281+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="12" />
+		<float key="simulated:logProbability" value="-9.939626599152001" />
+		<event>
+			<string key="concept:instance" value="12" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t1" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:28:14.900+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="12" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t2" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:29:14.900+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="12" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t3" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:30:14.900+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="12" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t4" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:31:14.900+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="12" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t5" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:32:14.900+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="12" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t8" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:33:14.900+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="12" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t6" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:34:14.900+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="12" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t9" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:35:14.900+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="12" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t7" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:36:14.900+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="12" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t10" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:37:14.900+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="12" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t12" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:47:14.900+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="13" />
+		<float key="simulated:logProbability" value="-5.78074351579233" />
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t1" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:29:39.731+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t2" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:30:39.731+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t3" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:31:39.731+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t8" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:32:39.731+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t6" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:33:39.731+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t4" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:34:39.731+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t7" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:35:39.731+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t9" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:36:39.731+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t5" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:37:39.731+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t10" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:38:39.731+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t12" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:39:39.731+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="16" />
+		<float key="simulated:logProbability" value="-4.68213122712422" />
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t1" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:30:51.458+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t2" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:31:51.458+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t3" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:32:51.458+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t4" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:33:51.458+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t6" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:34:51.458+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t5" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:35:51.458+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t7" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:36:51.458+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t8" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:37:51.458+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t9" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:38:51.458+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t10" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:39:51.458+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t12" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2020-11-11T16:40:51.458+08:00" />
+		</event>
+	</trace>
+</log>

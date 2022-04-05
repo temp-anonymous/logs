@@ -1,0 +1,522 @@
+<?xml version='1.0' encoding='utf-8'?>
+<log xes.version="1.0" xes.features="nested-attributes" openxes.version="1.0RC7">
+	<string key="concept:name" value="log18-50%-4" />
+	<trace>
+		<string key="concept:name" value="0" />
+		<float key="simulated:logProbability" value="-5.480638923341991" />
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nStructuring" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:24:20.913+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nScheduling" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:25:20.913+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Shift\nPlanning" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:26:20.913+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Cost\nPlanning\nin Networks" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:27:20.913+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Cost\nPlanning\nin Work\nBreakdown\nStructure" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:28:20.913+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Budget\nAllocation" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:29:20.913+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t21" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:30:20.913+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nRelease" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:31:20.913+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Budget\nRelease" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:32:20.913+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t28" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:33:20.913+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="1" />
+		<float key="simulated:logProbability" value="-5.480638923341991" />
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nStructuring" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:25:03.149+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Shift\nPlanning" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:26:03.149+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Cost\nPlanning\nin Work\nBreakdown\nStructure" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:27:03.149+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nScheduling" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:28:03.149+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Cost\nPlanning\nin Networks" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:29:03.149+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Budget\nAllocation" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:30:03.149+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t21" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:31:03.149+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nRelease" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:32:03.149+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Budget\nRelease" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:33:03.149+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t28" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:34:03.149+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2" />
+		<float key="simulated:logProbability" value="-5.480638923341991" />
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nStructuring" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:25:14.218+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nScheduling" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:26:14.218+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Cost\nPlanning\nin Networks" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:27:14.218+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Cost\nPlanning\nin Work\nBreakdown\nStructure" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:28:14.218+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Budget\nAllocation" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:29:14.218+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Shift\nPlanning" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:30:14.218+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t21" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:31:14.218+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nRelease" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:32:14.218+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Budget\nRelease" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:33:14.218+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t28" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:34:14.218+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="4" />
+		<float key="simulated:logProbability" value="-5.480638923341991" />
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nStructuring" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:26:51.995+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Budget\nAllocation" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:27:51.995+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Cost\nPlanning\nin Work\nBreakdown\nStructure" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:28:51.995+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Shift\nPlanning" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:29:51.995+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Cost\nPlanning\nin Networks" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:30:51.995+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nScheduling" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:31:51.995+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t21" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:32:51.995+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Budget\nRelease" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:33:51.995+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nRelease" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:34:51.995+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t28" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:35:51.995+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="5" />
+		<float key="simulated:logProbability" value="-5.480638923341991" />
+		<event>
+			<string key="concept:instance" value="5" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nStructuring" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:27:51.843+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="5" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nScheduling" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:28:51.843+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="5" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Cost\nPlanning\nin Work\nBreakdown\nStructure" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:29:51.843+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="5" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Shift\nPlanning" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:30:51.843+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="5" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Cost\nPlanning\nin Networks" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:31:51.843+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="5" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Budget\nAllocation" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:32:51.843+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="5" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t21" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:33:51.843+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="5" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nRelease" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:34:51.843+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="5" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Budget\nRelease" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:35:51.843+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="5" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t28" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:36:51.843+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="6" />
+		<float key="simulated:logProbability" value="-5.480638923341991" />
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nStructuring" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:28:12.543+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Cost\nPlanning\nin Work\nBreakdown\nStructure" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:29:12.543+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Budget\nAllocation" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:30:12.543+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Shift\nPlanning" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:31:12.543+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nScheduling" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:32:12.543+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Cost\nPlanning\nin Networks" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:33:12.543+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t21" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:34:12.543+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Budget\nRelease" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:35:12.543+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nRelease" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:36:12.543+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t28" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:37:12.543+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="7" />
+		<float key="simulated:logProbability" value="-5.480638923341991" />
+		<event>
+			<string key="concept:instance" value="7" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nStructuring" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:28:37.850+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="7" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Budget\nAllocation" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:29:37.850+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="7" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nScheduling" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:30:37.850+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="7" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Shift\nPlanning" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:31:37.850+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="7" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Cost\nPlanning\nin Networks" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:32:37.850+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="7" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Cost\nPlanning\nin Work\nBreakdown\nStructure" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:33:37.850+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="7" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t21" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:34:37.850+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="7" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Project\nRelease" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:35:37.850+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="7" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Budget\nRelease" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:36:37.850+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="7" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t28" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-24T20:37:37.850+08:00" />
+		</event>
+	</trace>
+</log>

@@ -1,0 +1,1234 @@
+<?xml version='1.0' encoding='utf-8'?>
+<log xes.version="1.0" xes.features="nested-attributes" openxes.version="1.0RC7">
+	<string key="concept:name" value="log19-50%-1" />
+	<trace>
+		<string key="concept:name" value="1" />
+		<float key="simulated:logProbability" value="-10.60460290274525" />
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T09:59:24.106+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nMaster\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:00:24.106+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nBOM Processing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:01:24.106+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:02:24.106+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Edit\nClasses" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:03:24.106+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Classification" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:04:24.106+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Characteristic\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:05:24.106+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:06:24.106+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t48" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:07:24.106+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Routing\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:08:24.106+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Inspection\nPlan\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:09:24.106+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Production\nResource/\nTool\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:10:24.106+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Order\nBOM Processing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:11:24.106+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t65" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:12:24.106+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Graphical\nProduct\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:13:24.106+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Integrated\nProduct\nand Process\nData\nProcessing - EWB" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:14:24.106+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="1" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Product\ndescription\nusing\nConfiguration\nManagement" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:15:24.106+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2" />
+		<float key="simulated:logProbability" value="-10.60460290274525" />
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:00:35.184+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:01:35.184+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nMaster\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:02:35.184+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Edit\nClasses" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:03:35.184+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Classification" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:04:35.184+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nBOM Processing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:05:35.184+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:06:35.184+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Characteristic\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:07:35.184+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t48" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:08:35.184+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Routing\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:09:35.184+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Inspection\nPlan\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:10:35.184+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Production\nResource/\nTool\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:11:35.184+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="WBS BOM\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:12:35.184+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t65" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:13:35.184+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Graphical\nProduct\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:14:35.184+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Integrated\nProduct\nand Process\nData\nProcessing - EWB" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:15:35.184+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="2" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Product\ndescription\nusing\nConfiguration\nManagement" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:16:35.184+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="6" />
+		<float key="simulated:logProbability" value="-10.60460290274525" />
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:03:30.213+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Characteristic\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:04:30.213+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Classification" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:05:30.213+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nBOM Processing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:06:30.213+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nMaster\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:07:30.213+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Edit\nClasses" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:08:30.213+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:09:30.213+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:10:30.213+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t48" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:11:30.213+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Routing\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:12:30.213+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Inspection\nPlan\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:13:30.213+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Production\nResource/\nTool\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:14:30.213+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Order\nBOM Processing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:15:30.213+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t65" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:16:30.213+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Graphical\nProduct\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:17:30.213+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Integrated\nProduct\nand Process\nData\nProcessing - EWB" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:18:30.213+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Product\ndescription\nusing\nConfiguration\nManagement" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:19:30.213+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="8" />
+		<float key="simulated:logProbability" value="-10.60460290274525" />
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:06:34.492+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Edit\nClasses" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:07:34.492+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nBOM Processing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:08:34.492+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:09:34.492+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Classification" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:10:34.492+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:11:34.492+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Characteristic\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:12:34.492+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nMaster\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:13:34.492+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t48" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:14:34.492+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Inspection\nPlan\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:15:34.492+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Routing\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:16:34.492+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Production\nResource/\nTool\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:17:34.492+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Order\nBOM Processing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:18:34.492+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t65" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:19:34.492+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Integrated\nProduct\nand Process\nData\nProcessing - EWB" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:20:34.492+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Graphical\nProduct\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:21:34.492+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Product\ndescription\nusing\nConfiguration\nManagement" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:22:34.492+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="9" />
+		<float key="simulated:logProbability" value="-10.60460290274525" />
+		<event>
+			<string key="concept:instance" value="9" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:07:03.053+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="9" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Characteristic\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:08:03.053+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="9" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:09:03.053+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="9" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:10:03.053+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="9" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nBOM Processing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:11:03.053+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="9" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nMaster\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:12:03.053+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="9" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Classification" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:13:03.053+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="9" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Edit\nClasses" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:14:03.053+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="9" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t48" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:15:03.053+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="9" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Routing\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:16:03.053+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="9" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Inspection\nPlan\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:17:03.053+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="9" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Production\nResource/\nTool\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:18:03.053+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="9" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="WBS BOM\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:19:03.053+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="9" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t65" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:20:03.053+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="9" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Integrated\nProduct\nand Process\nData\nProcessing - EWB" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:21:03.053+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="9" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Graphical\nProduct\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:22:03.053+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="9" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Product\ndescription\nusing\nConfiguration\nManagement" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:23:03.053+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="13" />
+		<float key="simulated:logProbability" value="-10.60460290274525" />
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:09:53.693+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Classification" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:10:53.693+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Characteristic\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:11:53.693+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nBOM Processing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:12:53.693+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:13:53.693+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Edit\nClasses" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:14:53.693+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:15:53.693+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nMaster\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:16:53.693+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t48" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:17:53.693+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Routing\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:18:53.693+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Inspection\nPlan\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:19:53.693+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Production\nResource/\nTool\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:20:53.693+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="WBS BOM\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:21:53.693+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t65" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:22:53.693+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Integrated\nProduct\nand Process\nData\nProcessing - EWB" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:23:53.693+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Graphical\nProduct\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:24:53.693+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="13" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Product\ndescription\nusing\nConfiguration\nManagement" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:25:53.693+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="15" />
+		<float key="simulated:logProbability" value="-10.60460290274525" />
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:10:27.474+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:11:27.474+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:12:27.474+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Classification" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:13:27.474+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Edit\nClasses" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:14:27.474+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nBOM Processing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:15:27.474+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Characteristic\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:16:27.474+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nMaster\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:17:27.474+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t48" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:18:27.474+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Inspection\nPlan\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:19:27.474+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Routing\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:20:27.474+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Production\nResource/\nTool\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:21:27.474+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="WBS BOM\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:22:27.474+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t65" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:23:27.474+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Graphical\nProduct\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:24:27.474+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Integrated\nProduct\nand Process\nData\nProcessing - EWB" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:25:27.474+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Product\ndescription\nusing\nConfiguration\nManagement" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:26:27.474+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="17" />
+		<float key="simulated:logProbability" value="-10.60460290274525" />
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:13:14.634+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nBOM Processing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:14:14.634+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Edit\nClasses" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:15:14.634+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:16:14.634+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:17:14.634+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nMaster\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:18:14.634+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Characteristic\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:19:14.634+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Classification" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:20:14.634+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t48" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:21:14.634+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Inspection\nPlan\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:22:14.634+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Routing\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:23:14.634+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Production\nResource/\nTool\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:24:14.634+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Order\nBOM Processing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:25:14.634+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t65" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:26:14.634+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Integrated\nProduct\nand Process\nData\nProcessing - EWB" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:27:14.634+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Graphical\nProduct\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:28:14.634+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Product\ndescription\nusing\nConfiguration\nManagement" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:29:14.634+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="18" />
+		<float key="simulated:logProbability" value="-10.60460290274525" />
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:13:17.596+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Classification" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:14:17.596+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:15:17.596+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Characteristic\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:16:17.596+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:17:17.596+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nMaster\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:18:17.596+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nBOM Processing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:19:17.596+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Edit\nClasses" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:20:17.596+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t48" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:21:17.596+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Routing\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:22:17.596+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Inspection\nPlan\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:23:17.596+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Production\nResource/\nTool\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:24:17.596+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Order\nBOM Processing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:25:17.596+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t65" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:26:17.596+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Integrated\nProduct\nand Process\nData\nProcessing - EWB" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:27:17.596+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Graphical\nProduct\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:28:17.596+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Product\ndescription\nusing\nConfiguration\nManagement" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:29:17.596+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="19" />
+		<float key="simulated:logProbability" value="-10.60460290274525" />
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:13:59.751+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Characteristic\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:14:59.751+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Classification" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:15:59.751+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:16:59.751+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Document\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:17:59.751+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nBOM Processing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:18:59.751+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Edit\nClasses" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:19:59.751+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Material\nMaster\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:20:59.751+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t48" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:21:59.751+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Inspection\nPlan\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:22:59.751+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Routing\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:23:59.751+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Production\nResource/\nTool\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:24:59.751+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Order\nBOM Processing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:25:59.751+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t65" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:26:59.751+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Graphical\nProduct\nStructure\nProcessing" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:27:59.751+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Integrated\nProduct\nand Process\nData\nProcessing - EWB" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:28:59.751+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="Product\ndescription\nusing\nConfiguration\nManagement" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-25T10:29:59.751+08:00" />
+		</event>
+	</trace>
+</log>

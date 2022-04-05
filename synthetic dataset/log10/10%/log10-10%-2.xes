@@ -1,0 +1,1380 @@
+<?xml version='1.0' encoding='utf-8'?>
+<log xes.version="1.0" xes.features="nested-attributes" openxes.version="1.0RC7">
+	<string key="concept:name" value="log10-10%-2" />
+	<trace>
+		<string key="concept:name" value="8" />
+		<float key="simulated:logProbability" value="-18.13960973021496" />
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="process.s00000379##s00003283.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:32:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003287.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:33:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003287.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:34:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.activate.s00001072" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:35:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001081" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:36:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001075" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:37:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001073" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:38:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003289.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:39:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001078" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:40:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003286.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:41:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003289.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:42:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003288.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:43:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003288.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:44:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003286.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:45:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001067" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:46:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003284.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:47:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001064" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:48:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001065" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:49:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003284.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:50:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001062" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:51:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.fire.s00001069" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:52:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003285.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:53:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003285.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:54:49.454+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="process.s00000379##s00003283.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:55:49.454+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="14" />
+		<float key="simulated:logProbability" value="-18.42729180266674" />
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="process.s00000379##s00003283.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:40:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003287.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:41:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003287.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:42:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.activate.s00001072" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:43:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001075" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:44:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001078" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:45:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003286.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:46:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001073" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:47:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001081" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:48:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003289.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:49:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003284.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:50:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003288.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:51:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003289.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:52:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003284.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:53:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003288.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:54:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001062" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:55:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001065" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:56:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001064" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:57:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003286.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:58:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001067" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:59:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.fire.s00001069" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:00:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003285.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:01:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003285.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:02:25.780+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="process.s00000379##s00003283.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:03:25.780+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="16" />
+		<float key="simulated:logProbability" value="-16.87109840475145" />
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="process.s00000379##s00003283.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:43:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003287.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:44:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003287.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:45:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.activate.s00001072" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:46:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001075" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:47:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001073" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:48:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001078" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:49:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003284.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:50:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003289.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:51:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003289.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:52:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003286.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:53:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001065" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:54:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001081" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:55:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003284.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:56:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003286.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:57:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001067" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:58:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003288.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:59:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001062" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:00:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003288.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:01:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001064" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:02:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.fire.s00001069" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:03:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003285.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:04:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003285.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:05:36.322+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="process.s00000379##s00003283.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:06:36.322+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="19" />
+		<float key="simulated:logProbability" value="-16.988881440407834" />
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="process.s00000379##s00003283.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:46:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003287.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:47:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003287.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:48:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.activate.s00001072" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:49:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001078" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:50:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001081" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:51:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001075" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:52:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003288.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:53:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003284.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:54:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003288.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:55:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001064" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:56:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001073" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:57:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003286.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:58:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003286.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:59:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003284.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:00:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003289.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:01:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001067" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:02:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001062" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:03:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003289.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:04:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001065" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:05:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.fire.s00001069" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:06:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003285.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:07:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003285.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:08:00.810+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="19" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="process.s00000379##s00003283.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:09:00.810+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="23" />
+		<float key="simulated:logProbability" value="-18.13960973021496" />
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="process.s00000379##s00003283.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:49:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003287.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:50:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003287.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:51:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.activate.s00001072" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:52:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001078" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:53:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001075" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:54:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003284.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:55:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001081" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:56:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003288.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:57:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001073" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:58:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003289.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:59:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003286.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:00:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003284.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:01:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003289.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:02:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001065" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:03:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003286.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:04:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001067" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:05:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001062" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:06:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003288.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:07:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001064" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:08:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.fire.s00001069" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:09:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003285.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:10:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003285.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:11:47.582+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="23" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="process.s00000379##s00003283.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:12:47.582+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="31" />
+		<float key="simulated:logProbability" value="-18.42729180266674" />
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="process.s00000379##s00003283.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:56:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003287.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:57:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003287.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:58:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.activate.s00001072" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T15:59:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001073" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:00:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001078" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:01:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003284.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:02:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003289.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:03:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001081" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:04:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003288.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:05:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001075" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:06:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003286.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:07:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003289.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:08:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003284.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:09:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003288.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:10:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001064" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:11:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001065" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:12:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001062" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:13:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003286.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:14:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001067" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:15:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.fire.s00001069" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:16:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003285.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:17:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003285.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:18:18.415+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="31" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="process.s00000379##s00003283.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:19:18.415+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="39" />
+		<float key="simulated:logProbability" value="-14.961555899867015" />
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="process.s00000379##s00003283.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:04:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003287.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:05:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003287.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:06:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.activate.s00001072" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:07:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001081" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:08:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001075" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:09:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003286.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:10:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001078" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:11:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003286.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:12:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003288.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:13:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003288.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:14:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001064" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:15:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001067" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:16:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001073" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:17:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003289.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:18:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003289.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:19:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001065" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:20:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003284.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:21:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003284.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:22:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001062" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:23:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.fire.s00001069" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:24:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003285.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:25:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003285.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:26:06.340+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="39" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="process.s00000379##s00003283.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:27:06.340+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="53" />
+		<float key="simulated:logProbability" value="-17.564245585311397" />
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="process.s00000379##s00003283.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:22:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003287.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:23:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003287.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:24:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.activate.s00001072" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:25:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001081" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:26:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003288.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:27:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001073" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:28:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001075" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:29:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003288.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:30:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003289.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:31:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003286.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:32:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="fork.s00001071.fire.s00001078" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:33:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001064" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:34:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003286.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:35:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003284.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:36:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003284.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:37:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001062" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:38:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001067" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:39:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003289.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:40:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.activate.s00001065" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:41:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="join.s00001163.fire.s00001069" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:42:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003285.inputCriterion.s00001053" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:43:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="callToTask.s00003285.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:44:25.854+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="53" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="process.s00000379##s00003283.outputCriterion.s00001055" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-08-03T16:45:25.854+08:00" />
+		</event>
+	</trace>
+</log>

@@ -1,0 +1,954 @@
+<?xml version='1.0' encoding='utf-8'?>
+<log xes.version="1.0" xes.features="nested-attributes" openxes.version="1.0RC7">
+	<string key="concept:name" value="log25-50%-2" />
+	<trace>
+		<string key="concept:name" value="0" />
+		<float key="simulated:logProbability" value="-4.969813299576001" />
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nMaterials\nIdentification" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:44:04.967+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:45:04.967+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nCreate\nDocument\nExtract" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:46:04.967+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nCreate\nBase\nLayer" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:47:04.967+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t78" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:48:04.967+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:49:04.967+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:50:04.967+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nLowest\nValue\nComparison" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:51:04.967+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:52:04.967+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:53:04.967+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nCheck" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:54:04.967+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t57" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:55:04.967+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="0" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nChange" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:56:04.967+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="4" />
+		<float key="simulated:logProbability" value="-4.969813299576001" />
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nExecute" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:50:53.220+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:51:53.220+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nCreate\nDocument\nExtract" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:52:53.220+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nTransfer\nExternal\nData" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:53:53.220+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t78" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:54:53.220+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:55:53.220+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:56:53.220+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nLowest\nValue\nComparison" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:57:53.220+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:58:53.220+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:59:53.220+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nCheck" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:00:53.220+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t57" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:01:53.220+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="4" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nChange" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:02:53.220+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="6" />
+		<float key="simulated:logProbability" value="-4.276666119016055" />
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nMaterials\nIdentification" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:54:07.199+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:55:07.199+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nTransfer\nExternal\nData" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:56:07.199+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nCreate\nDocument\nExtract" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:57:07.199+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t78" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:58:07.199+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:59:07.199+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:00:07.199+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nLowest\nValue\nComparison" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:01:07.199+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:02:07.199+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:03:07.199+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nCheck" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:04:07.199+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t57" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:05:07.199+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="6" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nChange" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:06:07.199+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="8" />
+		<float key="simulated:logProbability" value="-5.375278407684165" />
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nExecute" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:57:00.331+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:58:00.331+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nCreate\nBase\nLayer" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:59:00.331+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nCreate\nDocument\nExtract" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:00:00.331+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t78" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:01:00.331+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:02:00.331+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:03:00.331+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nLowest\nValue\nComparison" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:04:00.331+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nCheck" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:05:00.331+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:06:00.331+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:07:00.331+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t57" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:08:00.331+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="8" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nChange" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:09:00.331+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="10" />
+		<float key="simulated:logProbability" value="-5.375278407684165" />
+		<event>
+			<string key="concept:instance" value="10" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nMaterials\nIdentification" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:58:48.235+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="10" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T20:59:48.235+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="10" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nTransfer\nExternal\nData" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:00:48.235+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="10" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nCreate\nDocument\nExtract" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:01:48.235+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="10" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t78" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:02:48.235+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="10" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:03:48.235+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="10" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:04:48.235+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="10" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nLowest\nValue\nComparison" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:05:48.235+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="10" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nCheck" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:06:48.235+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="10" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t57" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:07:48.235+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="10" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:08:48.235+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="10" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:09:48.235+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="10" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nChange" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:10:48.235+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="14" />
+		<float key="simulated:logProbability" value="-5.662960480135946" />
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nExecute" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:01:20.170+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:02:20.170+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nCreate\nDocument\nExtract" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:03:20.170+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nTransfer\nExternal\nData" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:04:20.170+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t78" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:05:20.170+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:06:20.170+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:07:20.170+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nLowest\nValue\nComparison" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:08:20.170+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:09:20.170+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nCheck" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:10:20.170+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t57" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:11:20.170+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:12:20.170+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="14" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nChange" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:13:20.170+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="15" />
+		<float key="simulated:logProbability" value="-4.276666119016055" />
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nMaterials\nIdentification" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:01:32.488+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:02:32.488+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nTransfer\nExternal\nData" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:03:32.488+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nCreate\nDocument\nExtract" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:04:32.488+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t78" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:05:32.488+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:06:32.488+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:07:32.488+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nLowest\nValue\nComparison" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:08:32.488+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:09:32.488+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:10:32.488+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nCheck" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:11:32.488+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t57" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:12:32.488+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="15" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nChange" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:13:32.488+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="16" />
+		<float key="simulated:logProbability" value="-5.375278407684165" />
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nExecute" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:01:41.653+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:02:41.653+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nTransfer\nExternal\nData" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:03:41.653+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nCreate\nDocument\nExtract" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:04:41.653+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t78" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:05:41.653+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:06:41.653+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:07:41.653+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nLowest\nValue\nComparison" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:08:41.653+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nCheck" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:09:41.653+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t57" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:10:41.653+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:11:41.653+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:12:41.653+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="16" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nChange" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:13:41.653+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="17" />
+		<float key="simulated:logProbability" value="-5.375278407684165" />
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nExecute" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:02:08.465+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:03:08.465+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nTransfer\nExternal\nData" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:04:08.465+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nCreate\nDocument\nExtract" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:05:08.465+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t78" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:06:08.465+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:07:08.465+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:08:08.465+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nLowest\nValue\nComparison" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:09:08.465+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nCheck" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:10:08.465+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t57" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:11:08.465+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:12:08.465+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:13:08.465+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="17" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nChange" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:14:08.465+08:00" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="18" />
+		<float key="simulated:logProbability" value="-5.375278407684165" />
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nExecute" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:03:44.393+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t74" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:04:44.393+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nTransfer\nExternal\nData" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:05:44.393+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nCreate\nDocument\nExtract" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:06:44.393+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t78" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:07:44.393+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:08:44.393+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nValuation:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:09:44.393+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nLowest\nValue\nComparison" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:10:44.393+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nCheck" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:11:44.393+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nSingle\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:12:44.393+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nDisplay:\nPool\nLevel" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:13:44.393+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="t57" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:14:44.393+08:00" />
+		</event>
+		<event>
+			<string key="concept:instance" value="18" />
+			<string key="lifecycle:transition" value="complete" />
+			<string key="concept:name" value="LIFO:\nGroup\nFormation:\nChange" />
+			<boolean key="concept:simulated" value="true" />
+			<date key="time:timestamp" value="2021-09-06T21:15:44.393+08:00" />
+		</event>
+	</trace>
+</log>
